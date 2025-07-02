@@ -26,7 +26,7 @@ O processo é executado em duas fases principais:
       * A biblioteca `OpenCV` é usada para desenhar as caixas delimitadoras verdes e o texto correspondente em azul sobre as imagens, que são salvas no diretório `processed_images`.
       * O texto extraído de todas as páginas é concatenado e exibido no console ao final da execução.
 
-## 🛠️ Tecnologias Utilizadas
+## Tecnologias Utilizadas
 
   * **PyMuPDF (`fitz`)**: Para manipulação e conversão de arquivos PDF.
   * **EasyOCR**: Um motor de OCR poderoso e de fácil utilização.
