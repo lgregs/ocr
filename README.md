@@ -60,9 +60,9 @@ O processo é executado em duas fases principais:
     ```
 3. Execute todas as células do caderno.
    ou
-3.2.  Execute o script a partir do seu terminal:
+  Execute o script a partir do seu terminal:
     ```bash
-    python seu_script.py
+    python EasyOCR.ipynb
     ```
 
 ## Resultados Esperados
