@@ -50,14 +50,17 @@ O processo é executado em duas fases principais:
     ```
 
 ##  Como Executar
+- Vai depender se você está usando um notebook python como eu ou se vai executar só no python mesmo.
 
-1.  Abra o arquivo de script principal (`seu_script.py`).
+1.  Abra o arquivo de script principal (`EasyOCR.ipynb`).
 2.  Altere a variável `pdf_path` para o caminho completo do arquivo PDF que você deseja processar:
     ```python
     # Inserir caminho completo do PDF
     pdf_path = 'C:/caminho/para/seu/documento.pdf'
     ```
-3.  Execute o script a partir do seu terminal:
+3. Execute todas as células do caderno.
+   ou
+3.2.  Execute o script a partir do seu terminal:
     ```bash
     python seu_script.py
     ```
