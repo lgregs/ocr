@@ -1,4 +1,4 @@
-# Extrator de Texto de PDFs com OCR e Visualização
+# Extrator de Texto de PDFs com OCR
 
 Este projeto é uma ferramenta desenvolvida em Python para extrair texto de documentos PDF que não funcionam com extratores comuns, ou o PDF é uma imagem ou esta quebrado. A solução utiliza uma abordagem de duas etapas: primeiro, converte cada página do PDF em uma imagem, em seguida, aplica técnicas de Reconhecimento Óptico de Caracteres (OCR) para extrair o texto de cada imagem.
 
